@@ -2,6 +2,7 @@
 namespace ProcessControl\ProcessLauncher\Networking;
 class Server {
 
+    //Maximum attempts for binding the listening socket
     const MAX_RETRIES = 5;
 
     //Ipv4 address where to bind the socket to listen
