@@ -1,5 +1,5 @@
 {
-  "name": "process-control/process-launcher",
+  "name": "dcff/process-launcher",
   "type": "library",
   "description": "Process Launcher Control for splitting your cyclic into little sub-processes",
   "keywords": ["process","multithread"],
